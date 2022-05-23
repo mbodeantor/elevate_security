@@ -1,5 +1,3 @@
-# elevate_security
-
 **How to run**
 
 The script can be run from the command line to start the API once the dependent packages are installed. This will host it locally and can be reached at http://127.0.0.1:9000/incidents
